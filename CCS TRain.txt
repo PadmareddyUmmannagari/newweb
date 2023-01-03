@@ -1,0 +1,16 @@
+POA indicators Y-Yes, N-No, U-Unspecified, W - Undetermined, E-Exempt
+
+Newborn is just an Information:POA-E
+
+Whichevr the condition found in the new born as soon as they born is considered Y POA as it is present in the newborn right before they're admitted in hospital
+
+HAC- Hospital Acquired Condtion
+U- Unspecified and enquire physician if he doent know the indcator aslo then give W
+TBI- Trumatic brain Injury
+Acute Myocardial Infarction (AMI)
+If type 1 AMI pt returns within 4 weeks then it is  called subsequent visit of AMI but this doesnt apply for 2-5 types
+type 2 AMI could be bcoz of lack of oxygen(Lungs fail would result lack of oxyngen in blood vessels).
+
+CC : Any condition that coexists along with the principle DX which may lengthen the stay or ends up in increased nurising aquity or end up in any therapautic treatment or future assesment is required that is called comoridity or complication
+CO-together morbidity- Chance of death
+For example, if you have diabetes and you're later diagnosed with depression, then depression is a comorbidity. Both conditions have symptoms that can affect your quality of life. So when you see your doctor for diabetes, they'll need to keep in mind that depression also affects your health overall.

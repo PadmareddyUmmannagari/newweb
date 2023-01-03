@@ -1,0 +1,134 @@
+.trip-plan-two {
+  background-color: var(--lavender);
+  padding: 49px 111px 27px 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flex-wrapper-three {
+  margin-bottom: 55px;
+  display: flex;
+  align-items: flex-start;
+}
+.trip-plan {
+  height: 47px;
+  width: 341px;
+  font-family: "Inter";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  color: var(--royal-blue);
+  display: flex;
+  text-transform: uppercase;
+  margin-right: 244px;
+}
+.home-profile-about-contact {
+  height: 63px;
+  width: 624px;
+  display: flex;
+  font-family: "Inter";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+}
+.home-profile-about-contact-emphasis-0 {
+  font-family: "Inter";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  color: var(--black);
+}
+.flex-wrapper-one {
+  background-color: var(--dodger-blue);
+  margin-bottom: 77px;
+  margin-left: 897px;
+  border-radius: 10px;
+  padding: 17px 111px 16px 98px;
+  display: flex;
+  align-items: center;
+}
+.lets-go {
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  color: var(--white);
+}
+.flex-wrapper-four {
+  margin-bottom: 51px;
+  padding: 0 0 0 18px;
+  display: flex;
+  align-items: center;
+}
+.rectangle-2 {
+  width: 549px;
+  height: 332px;
+  margin-right: 60px;
+  border-radius: 20px;
+}
+.flex-wrapper-six {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.goa {
+  width: 130px;
+  font-family: "Inter";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  color: var(--royal-blue);
+  margin-bottom: 4px;
+}
+.goa-is-a-state-in-western-india-with-coa {
+  height: 285px;
+  width: 560px;
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  display: flex;
+}
+.flex-wrapper-five {
+  padding: 0 0 0 18px;
+  display: flex;
+  align-items: flex-start;
+}
+.flex-wrapper-seven {
+  margin-right: 71px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.goa-two {
+  width: 130px;
+  font-family: "Inter";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  color: var(--royal-blue);
+  margin-bottom: 9px;
+}
+.flex-wrapper-two {
+  margin-left: 7px;
+  padding: 5px 0 69px;
+  display: flex;
+  align-items: flex-start;
+}
+.jammu-and-kashmir-is-a-region-administer {
+  height: 205px;
+  width: 542px;
+  font-family: "Inter";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  color: var(--black);
+  display: flex;
+}
+.rectangle-3 {
+  width: 549px;
+  height: 332px;
+  border-radius: 20px;
+}
